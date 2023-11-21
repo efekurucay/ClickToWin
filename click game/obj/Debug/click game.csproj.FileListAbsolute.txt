@@ -1,0 +1,11 @@
+C:\Users\efeku\source\repos\Projects\click game\bin\Debug\click game.exe.config
+C:\Users\efeku\source\repos\Projects\click game\bin\Debug\click game.exe
+C:\Users\efeku\source\repos\Projects\click game\bin\Debug\click game.pdb
+C:\Users\efeku\source\repos\Projects\click game\obj\Debug\click game.csproj.AssemblyReference.cache
+C:\Users\efeku\source\repos\Projects\click game\obj\Debug\click game.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeku\source\repos\Projects\click game\obj\Debug\click_game.Form1.resources
+C:\Users\efeku\source\repos\Projects\click game\obj\Debug\click_game.Properties.Resources.resources
+C:\Users\efeku\source\repos\Projects\click game\obj\Debug\click game.csproj.GenerateResource.cache
+C:\Users\efeku\source\repos\Projects\click game\obj\Debug\click game.csproj.CoreCompileInputs.cache
+C:\Users\efeku\source\repos\Projects\click game\obj\Debug\click game.exe
+C:\Users\efeku\source\repos\Projects\click game\obj\Debug\click game.pdb
